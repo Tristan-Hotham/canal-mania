@@ -1,0 +1,158 @@
+{
+ "osm_ways_total": 9167,
+ "osm_ways_kept": 8356,
+ "osm_ways_dropped": 811,
+ "network_km": 3883.6469250375735,
+ "named_km": 3649.769275888884,
+ "dated_km": 3009.0648732716872,
+ "dated_share": 0.7748039230529626,
+ "named_dated_share": 0.8181053801161433,
+ "km_by_method": {
+  "exact": 2509.2248734981385,
+  "nearest": 23.168992484390692,
+  "none": 868.0216498304212,
+  "contains": 15.429516470402321,
+  "grand union split": 323.71881947197306,
+  "alias": 141.2940067986728,
+  "wikidata": 2.7890664835698673
+ },
+ "dated_km_1760_1830": 2541.6355353684203,
+ "dated_km_by_1830": 2678.1124345523262,
+ "km_by_decade": {
+  "120": 2.1507722628756145,
+  "1120": 17.32364472855445,
+  "1560": 7.796783966868254,
+  "1670": 0.21870517527242517,
+  "1700": 50.418847406400864,
+  "1710": 9.304644529169195,
+  "1740": 31.448030571562843,
+  "1750": 17.81547054320228,
+  "1760": 106.014736893353,
+  "1770": 367.16275659758855,
+  "1780": 111.50361133079527,
+  "1790": 586.3165603390127,
+  "1800": 525.2572067123275,
+  "1810": 502.6923826063273,
+  "1820": 340.78156358761044,
+  "1830": 188.37473987452913,
+  "1840": 34.529454363376914,
+  "1850": 0.6547073384584655,
+  "1860": 0.694697017781768,
+  "1890": 62.34789824753451,
+  "1900": 8.74691047791289,
+  "1920": 37.51074870117114
+ },
+ "unmatched_named_top": [
+  [
+   "New River",
+   31.8
+  ],
+  [
+   "Birmingham New Main Line Canal",
+   24.0
+  ],
+  [
+   "Hobhole Drain",
+   21.7
+  ],
+  [
+   "River Nene Navigation",
+   20.1
+  ],
+  [
+   "North Level Main Drain",
+   18.8
+  ],
+  [
+   "River Wey Navigation",
+   17.7
+  ],
+  [
+   "Forty Foot or Vermuyden's Drain",
+   17.1
+  ],
+  [
+   "Twenty Foot River",
+   16.2
+  ],
+  [
+   "Sixteen Foot Drain",
+   14.1
+  ],
+  [
+   "Cut off Channel",
+   12.9
+  ],
+  [
+   "Staines Reservoirs Aqueduct",
+   12.3
+  ],
+  [
+   "River Chelmer",
+   12.2
+  ],
+  [
+   "Cut Off Channel",
+   12.1
+  ],
+  [
+   "Sowy River",
+   11.6
+  ],
+  [
+   "The Canal",
+   10.4
+  ],
+  [
+   "Whittlesey Dyke",
+   9.7
+  ],
+  [
+   "Mill Race",
+   9.0
+  ],
+  [
+   "Bell Water Drain",
+   8.9
+  ],
+  [
+   "Droitwich Barge Canal",
+   8.8
+  ],
+  [
+   "Burwell Lode",
+   7.4
+  ],
+  [
+   "Bevills Leam",
+   7.3
+  ],
+  [
+   "King's Dyke",
+   7.3
+  ],
+  [
+   "Soham Lode",
+   6.4
+  ],
+  [
+   "Driffield Canal",
+   6.3
+  ],
+  [
+   "Andover Barge Canal",
+   5.9
+  ]
+ ],
+ "list_rows": 195,
+ "list_with_year": 187,
+ "list_years_from_wikidata": 0,
+ "list_rows_by_country": {
+  "England": 164,
+  "Northern Ireland": 8,
+  "Scotland": 13,
+  "Wales": 10
+ },
+ "list_opened_1760_1830": 151,
+ "list_matched_to_osm": 132
+}

@@ -1,0 +1,2885 @@
+{
+ "net": {
+  "osm_ways_total": 9167,
+  "osm_ways_kept": 8356,
+  "network_km": 3883.6469250375735,
+  "named_km": 3649.769275888884,
+  "dated_km": 3009.0648732716872,
+  "dated_share": 0.7748039230529626,
+  "named_dated_share": 0.8181053801161433,
+  "dated_km_1760_1830": 2541.6355353684203,
+  "dated_km_by_1830": 2678.1124345523262,
+  "list_rows": 195,
+  "list_with_year": 187,
+  "list_opened_1760_1830": 151,
+  "list_matched_to_osm": 132,
+  "km_by_method": {
+   "exact": 2509.2248734981385,
+   "nearest": 23.168992484390692,
+   "none": 868.0216498304212,
+   "contains": 15.429516470402321,
+   "grand union split": 323.71881947197306,
+   "alias": 141.2940067986728,
+   "wikidata": 2.7890664835698673
+  },
+  "undated_km": 874.5820517658863,
+  "share_dated_by_1830_of_dated": 0.8900148542296052,
+  "share_dated_1760_1830_of_dated": 0.844659601042419,
+  "km_by_decade": [
+   {
+    "decade": 120,
+    "km": 2.1507722628756145
+   },
+   {
+    "decade": 1120,
+    "km": 17.32364472855445
+   },
+   {
+    "decade": 1560,
+    "km": 7.796783966868254
+   },
+   {
+    "decade": 1670,
+    "km": 0.21870517527242517
+   },
+   {
+    "decade": 1700,
+    "km": 50.418847406400864
+   },
+   {
+    "decade": 1710,
+    "km": 9.304644529169195
+   },
+   {
+    "decade": 1740,
+    "km": 31.448030571562843
+   },
+   {
+    "decade": 1750,
+    "km": 17.81547054320228
+   },
+   {
+    "decade": 1760,
+    "km": 106.014736893353
+   },
+   {
+    "decade": 1770,
+    "km": 367.16275659758855
+   },
+   {
+    "decade": 1780,
+    "km": 111.50361133079527
+   },
+   {
+    "decade": 1790,
+    "km": 586.3165603390127
+   },
+   {
+    "decade": 1800,
+    "km": 525.2572067123275
+   },
+   {
+    "decade": 1810,
+    "km": 502.6923826063273
+   },
+   {
+    "decade": 1820,
+    "km": 340.78156358761044
+   },
+   {
+    "decade": 1830,
+    "km": 188.37473987452913
+   },
+   {
+    "decade": 1840,
+    "km": 34.529454363376914
+   },
+   {
+    "decade": 1850,
+    "km": 0.6547073384584655
+   },
+   {
+    "decade": 1860,
+    "km": 0.694697017781768
+   },
+   {
+    "decade": 1890,
+    "km": 62.34789824753451
+   },
+   {
+    "decade": 1900,
+    "km": 8.74691047791289
+   },
+   {
+    "decade": 1920,
+    "km": 37.51074870117114
+   }
+  ],
+  "peak_decade": 1790,
+  "peak_decade_km": 586.3165603390127,
+  "km_open_by_1760": 136.4768991839059,
+  "km_open_by_1800": 1307.4745643446554,
+  "km_1790s": 586.3165603390127,
+  "km_1770s": 367.16275659758855,
+  "km_1810s": 502.6923826063273,
+  "km_after_1830": 332.85915602076483,
+  "list_unique": 193,
+  "list_unique_dated": 185,
+  "list_unique_1760_1830": 149,
+  "list_by_decade": {
+   "120": 1,
+   "1120": 1,
+   "1560": 1,
+   "1670": 1,
+   "1700": 1,
+   "1710": 1,
+   "1720": 1,
+   "1730": 1,
+   "1740": 2,
+   "1750": 1,
+   "1760": 11,
+   "1770": 15,
+   "1780": 12,
+   "1790": 44,
+   "1800": 25,
+   "1810": 18,
+   "1820": 23,
+   "1830": 8,
+   "1840": 11,
+   "1850": 3,
+   "1860": 1,
+   "1890": 1,
+   "1900": 1,
+   "1920": 1
+  },
+  "list_1790s": 44
+ },
+ "panel": {
+  "n": 29,
+  "n_canal": 14,
+  "n_other": 15,
+  "median_pop1801": 16827.0,
+  "cut1861": 40400,
+  "cut1900": 100900,
+  "canal_towns": [
+   "Manchester",
+   "Liverpool",
+   "Birmingham",
+   "Leeds",
+   "Bath",
+   "Sheffield",
+   "Nottingham",
+   "Leicester",
+   "Exeter",
+   "Stoke-on-Trent",
+   "Coventry",
+   "Ashton-under-Lyne",
+   "Wolverhampton",
+   "Blackburn"
+  ],
+  "other_towns": [
+   "Bristol",
+   "Plymouth",
+   "Norwich",
+   "Portsmouth",
+   "Hull",
+   "Newcastle",
+   "York",
+   "Chester",
+   "Great Yarmouth",
+   "Dover",
+   "Stockport",
+   "Shrewsbury",
+   "Bolton",
+   "Sunderland",
+   "Oldham"
+  ],
+  "main": {
+   "canal": {
+    "n": 14,
+    "in1861": 12,
+    "in1861_share": 0.8571428571428571,
+    "in1900": 10,
+    "in1900_share": 0.7142857142857143,
+    "median_g61_bound": 3.9643550471331235,
+    "median_g61_known": 4.024085597672875,
+    "n_censored_1861": 2,
+    "median_g2021": 10.20078456905209,
+    "median_income": 45596.5,
+    "median_pop1801": 22907.0,
+    "median_pop2021": 319542.0,
+    "towns": [
+     "Manchester",
+     "Liverpool",
+     "Birmingham",
+     "Leeds",
+     "Bath",
+     "Sheffield",
+     "Nottingham",
+     "Leicester",
+     "Exeter",
+     "Stoke-on-Trent",
+     "Coventry",
+     "Ashton-under-Lyne",
+     "Wolverhampton",
+     "Blackburn"
+    ]
+   },
+   "other": {
+    "n": 15,
+    "in1861": 11,
+    "in1861_share": 0.7333333333333333,
+    "in1900": 10,
+    "in1900_share": 0.6666666666666666,
+    "median_g61_bound": 2.741027206730443,
+    "median_g61_known": 3.3541130234449112,
+    "n_censored_1861": 4,
+    "median_g2021": 6.942641298265249,
+    "median_income": 47006.0,
+    "median_pop1801": 15052.0,
+    "median_pop2021": 165394.0,
+    "towns": [
+     "Bristol",
+     "Plymouth",
+     "Norwich",
+     "Portsmouth",
+     "Hull",
+     "Newcastle",
+     "York",
+     "Chester",
+     "Great Yarmouth",
+     "Dover",
+     "Stockport",
+     "Shrewsbury",
+     "Bolton",
+     "Sunderland",
+     "Oldham"
+    ]
+   }
+  },
+  "sens": {
+   "canal_1km": {
+    "canal": {
+     "n": 12,
+     "in1861": 10,
+     "in1861_share": 0.8333333333333334,
+     "in1900": 8,
+     "in1900_share": 0.6666666666666666,
+     "median_g61_bound": 3.9046213680491793,
+     "median_g61_known": 3.9643550471331235,
+     "n_censored_1861": 2,
+     "median_g2021": 10.20078456905209,
+     "median_income": 45855.0,
+     "median_pop1801": 22907.0,
+     "median_pop2021": 319542.0,
+     "towns": [
+      "Manchester",
+      "Birmingham",
+      "Leeds",
+      "Bath",
+      "Sheffield",
+      "Nottingham",
+      "Leicester",
+      "Exeter",
+      "Stoke-on-Trent",
+      "Coventry",
+      "Ashton-under-Lyne",
+      "Blackburn"
+     ]
+    },
+    "other": {
+     "n": 17,
+     "in1861": 13,
+     "in1861_share": 0.7647058823529411,
+     "in1900": 12,
+     "in1900_share": 0.7058823529411765,
+     "median_g61_bound": 2.9378847229994403,
+     "median_g61_known": 3.688469318948078,
+     "n_censored_1861": 4,
+     "median_g2021": 6.942641298265249,
+     "median_income": 46870.0,
+     "median_pop1801": 15052.0,
+     "median_pop2021": 184302.0,
+     "towns": [
+      "Liverpool",
+      "Bristol",
+      "Plymouth",
+      "Norwich",
+      "Portsmouth",
+      "Hull",
+      "Newcastle",
+      "York",
+      "Chester",
+      "Great Yarmouth",
+      "Dover",
+      "Stockport",
+      "Shrewsbury",
+      "Wolverhampton",
+      "Bolton",
+      "Sunderland",
+      "Oldham"
+     ]
+    }
+   },
+   "canal_age": {
+    "canal": {
+     "n": 13,
+     "in1861": 12,
+     "in1861_share": 0.9230769230769231,
+     "in1900": 10,
+     "in1900_share": 0.7692307692307693,
+     "median_g61_bound": 4.016988143691382,
+     "median_g61_known": 4.024085597672875,
+     "n_censored_1861": 1,
+     "median_g2021": 10.345726066317868,
+     "median_income": 45430.0,
+     "median_pop1801": 28861.0,
+     "median_pop2021": 340496.0,
+     "towns": [
+      "Manchester",
+      "Liverpool",
+      "Birmingham",
+      "Leeds",
+      "Bath",
+      "Sheffield",
+      "Nottingham",
+      "Leicester",
+      "Stoke-on-Trent",
+      "Coventry",
+      "Ashton-under-Lyne",
+      "Wolverhampton",
+      "Blackburn"
+     ]
+    },
+    "other": {
+     "n": 16,
+     "in1861": 11,
+     "in1861_share": 0.6875,
+     "in1900": 10,
+     "in1900_share": 0.625,
+     "median_g61_bound": 2.731241121047943,
+     "median_g61_known": 3.3541130234449112,
+     "n_censored_1861": 5,
+     "median_g2021": 7.196613333508925,
+     "median_income": 48089.5,
+     "median_pop1801": 15598.5,
+     "median_pop2021": 153754.0,
+     "towns": [
+      "Bristol",
+      "Plymouth",
+      "Norwich",
+      "Portsmouth",
+      "Hull",
+      "Newcastle",
+      "Exeter",
+      "York",
+      "Chester",
+      "Great Yarmouth",
+      "Dover",
+      "Stockport",
+      "Shrewsbury",
+      "Bolton",
+      "Sunderland",
+      "Oldham"
+     ]
+    }
+   },
+   "canal_any": {
+    "canal": {
+     "n": 15,
+     "in1861": 12,
+     "in1861_share": 0.8,
+     "in1900": 10,
+     "in1900_share": 0.6666666666666666,
+     "median_g61_bound": 3.9117219505748646,
+     "median_g61_known": 4.024085597672875,
+     "n_censored_1861": 3,
+     "median_g2021": 10.05584307178631,
+     "median_income": 45763.0,
+     "median_pop1801": 16953.0,
+     "median_pop2021": 298588.0,
+     "towns": [
+      "Manchester",
+      "Liverpool",
+      "Birmingham",
+      "Leeds",
+      "Bath",
+      "Sheffield",
+      "Nottingham",
+      "Leicester",
+      "Exeter",
+      "Stoke-on-Trent",
+      "Coventry",
+      "Ashton-under-Lyne",
+      "Chester",
+      "Wolverhampton",
+      "Blackburn"
+     ]
+    },
+    "other": {
+     "n": 14,
+     "in1861": 11,
+     "in1861_share": 0.7857142857142857,
+     "in1900": 10,
+     "in1900_share": 0.7142857142857143,
+     "median_g61_bound": 2.839455964864942,
+     "median_g61_known": 3.3541130234449112,
+     "n_censored_1861": 3,
+     "median_g2021": 7.502979448862901,
+     "median_income": 46938.0,
+     "median_pop1801": 15495.0,
+     "median_pop2021": 174848.0,
+     "towns": [
+      "Bristol",
+      "Plymouth",
+      "Norwich",
+      "Portsmouth",
+      "Hull",
+      "Newcastle",
+      "York",
+      "Great Yarmouth",
+      "Dover",
+      "Stockport",
+      "Shrewsbury",
+      "Bolton",
+      "Sunderland",
+      "Oldham"
+     ]
+    }
+   },
+   "canal_first": {
+    "canal": {
+     "n": 14,
+     "in1861": 12,
+     "in1861_share": 0.8571428571428571,
+     "in1900": 10,
+     "in1900_share": 0.7142857142857143,
+     "median_g61_bound": 3.9643550471331235,
+     "median_g61_known": 4.024085597672875,
+     "n_censored_1861": 2,
+     "median_g2021": 10.20078456905209,
+     "median_income": 45596.5,
+     "median_pop1801": 22907.0,
+     "median_pop2021": 319542.0,
+     "towns": [
+      "Manchester",
+      "Liverpool",
+      "Birmingham",
+      "Leeds",
+      "Bath",
+      "Sheffield",
+      "Nottingham",
+      "Leicester",
+      "Exeter",
+      "Stoke-on-Trent",
+      "Coventry",
+      "Ashton-under-Lyne",
+      "Wolverhampton",
+      "Blackburn"
+     ]
+    },
+    "other": {
+     "n": 15,
+     "in1861": 11,
+     "in1861_share": 0.7333333333333333,
+     "in1900": 10,
+     "in1900_share": 0.6666666666666666,
+     "median_g61_bound": 2.741027206730443,
+     "median_g61_known": 3.3541130234449112,
+     "n_censored_1861": 4,
+     "median_g2021": 6.942641298265249,
+     "median_income": 47006.0,
+     "median_pop1801": 15052.0,
+     "median_pop2021": 165394.0,
+     "towns": [
+      "Bristol",
+      "Plymouth",
+      "Norwich",
+      "Portsmouth",
+      "Hull",
+      "Newcastle",
+      "York",
+      "Chester",
+      "Great Yarmouth",
+      "Dover",
+      "Stockport",
+      "Shrewsbury",
+      "Bolton",
+      "Sunderland",
+      "Oldham"
+     ]
+    }
+   },
+   "canal_1800": {
+    "canal": {
+     "n": 10,
+     "in1861": 8,
+     "in1861_share": 0.8,
+     "in1900": 7,
+     "in1900_share": 0.7,
+     "median_g61_bound": 3.9046213680491793,
+     "median_g61_known": 3.9643550471331235,
+     "n_censored_1861": 2,
+     "median_g2021": 12.51624217945205,
+     "median_income": 45596.5,
+     "median_pop1801": 16890.0,
+     "median_pop2021": 319542.0,
+     "towns": [
+      "Manchester",
+      "Birmingham",
+      "Leeds",
+      "Nottingham",
+      "Leicester",
+      "Exeter",
+      "Stoke-on-Trent",
+      "Coventry",
+      "Ashton-under-Lyne",
+      "Wolverhampton"
+     ]
+    },
+    "other": {
+     "n": 19,
+     "in1861": 15,
+     "in1861_share": 0.7894736842105263,
+     "in1900": 13,
+     "in1900_share": 0.6842105263157895,
+     "median_g61_bound": 2.9378847229994403,
+     "median_g61_known": 3.688469318948078,
+     "n_censored_1861": 4,
+     "median_g2021": 6.942641298265249,
+     "median_income": 47006.0,
+     "median_pop1801": 16145.0,
+     "median_pop2021": 165394.0,
+     "towns": [
+      "Liverpool",
+      "Bristol",
+      "Plymouth",
+      "Norwich",
+      "Bath",
+      "Portsmouth",
+      "Sheffield",
+      "Hull",
+      "Newcastle",
+      "York",
+      "Chester",
+      "Great Yarmouth",
+      "Dover",
+      "Stockport",
+      "Shrewsbury",
+      "Bolton",
+      "Sunderland",
+      "Oldham",
+      "Blackburn"
+     ]
+    }
+   }
+  },
+  "by_zone": {
+   "North": {
+    "canal": {
+     "n": 6,
+     "in1861": 5,
+     "in1861_share": 0.8333333333333334,
+     "in1900": 5,
+     "in1900_share": 0.8333333333333334,
+     "median_g61_bound": 4.649147452371425,
+     "median_g61_known": 5.267111853088481,
+     "n_censored_1861": 1,
+     "median_g2021": 8.254049035634388,
+     "median_income": 43629.5,
+     "median_pop1801": 42238.0,
+     "median_pop2021": 482482.0,
+     "towns": [
+      "Manchester",
+      "Liverpool",
+      "Leeds",
+      "Sheffield",
+      "Ashton-under-Lyne",
+      "Blackburn"
+     ]
+    },
+    "other": {
+     "n": 8,
+     "in1861": 7,
+     "in1861_share": 0.875,
+     "in1900": 6,
+     "in1900_share": 0.75,
+     "median_g61_bound": 3.770836929797666,
+     "median_g61_known": 3.853204540647254,
+     "n_censored_1861": 1,
+     "median_g2021": 9.207282914633307,
+     "median_income": 43981.5,
+     "median_pop1801": 14941.0,
+     "median_pop2021": 153754.0,
+     "towns": [
+      "Hull",
+      "Newcastle",
+      "York",
+      "Chester",
+      "Stockport",
+      "Bolton",
+      "Sunderland",
+      "Oldham"
+     ]
+    }
+   },
+   "Midlands": {
+    "canal": {
+     "n": 6,
+     "in1861": 6,
+     "in1861_share": 1.0,
+     "in1900": 5,
+     "in1900_share": 0.8333333333333334,
+     "median_g61_bound": 3.9643550471331235,
+     "median_g61_known": 3.9643550471331235,
+     "n_censored_1861": 0,
+     "median_g2021": 17.190438441924826,
+     "median_income": 45596.5,
+     "median_pop1801": 16683.5,
+     "median_pop2021": 319542.0,
+     "towns": [
+      "Birmingham",
+      "Nottingham",
+      "Leicester",
+      "Stoke-on-Trent",
+      "Coventry",
+      "Wolverhampton"
+     ]
+    },
+    "other": {
+     "n": 1,
+     "in1861": 0,
+     "in1861_share": 0.0,
+     "in1900": 0,
+     "in1900_share": 0.0,
+     "median_g61_bound": 2.741027206730443,
+     "median_g61_known": null,
+     "n_censored_1861": 1,
+     "median_g2021": 5.117850600447792,
+     "median_income": 52491.0,
+     "median_pop1801": 14739.0,
+     "median_pop2021": 75432.0,
+     "towns": [
+      "Shrewsbury"
+     ]
+    }
+   },
+   "South and East": {
+    "canal": {
+     "n": 2,
+     "in1861": 1,
+     "in1861_share": 0.5,
+     "in1900": 0,
+     "in1900_share": 0.0,
+     "median_g61_bound": 2.015669046382496,
+     "median_g61_known": 1.6304347826086956,
+     "n_censored_1861": 1,
+     "median_g2021": 5.2011933054943125,
+     "median_income": 57458.5,
+     "median_pop1801": 24513.5,
+     "median_pop2021": 110209.5,
+     "towns": [
+      "Bath",
+      "Exeter"
+     ]
+    },
+    "other": {
+     "n": 6,
+     "in1861": 4,
+     "in1861_share": 0.6666666666666666,
+     "in1900": 4,
+     "in1900_share": 0.6666666666666666,
+     "median_g61_bound": 2.6722522664904265,
+     "median_g61_known": 2.522146164472722,
+     "n_censored_1861": 2,
+     "median_g2021": 5.769636731797627,
+     "median_income": 49566.5,
+     "median_pop1801": 34499.0,
+     "median_pop2021": 210765.0,
+     "towns": [
+      "Bristol",
+      "Plymouth",
+      "Norwich",
+      "Portsmouth",
+      "Great Yarmouth",
+      "Dover"
+     ]
+    }
+   }
+  },
+  "by_size": {
+   "bigger": {
+    "canal": {
+     "n": 9,
+     "in1861": 8,
+     "in1861_share": 0.8888888888888888,
+     "in1900": 7,
+     "in1900_share": 0.7777777777777778,
+     "median_g61_bound": 3.9117219505748646,
+     "median_g61_known": 3.9643550471331235,
+     "n_censored_1861": 1,
+     "median_g2021": 10.021368646777773,
+     "median_income": 45947.0,
+     "median_pop1801": 32200.0,
+     "median_pop2021": 469193.0,
+     "towns": [
+      "Manchester",
+      "Liverpool",
+      "Birmingham",
+      "Leeds",
+      "Bath",
+      "Sheffield",
+      "Nottingham",
+      "Leicester",
+      "Exeter"
+     ]
+    },
+    "other": {
+     "n": 6,
+     "in1861": 6,
+     "in1861_share": 1.0,
+     "in1900": 6,
+     "in1900_share": 1.0,
+     "median_g61_bound": 2.780467110307425,
+     "median_g61_known": 2.780467110307425,
+     "n_censored_1861": 0,
+     "median_g2021": 6.821945207228311,
+     "median_income": 49566.5,
+     "median_pop1801": 34499.0,
+     "median_pop2021": 267936.0,
+     "towns": [
+      "Bristol",
+      "Plymouth",
+      "Norwich",
+      "Portsmouth",
+      "Hull",
+      "Newcastle"
+     ]
+    }
+   },
+   "smaller": {
+    "canal": {
+     "n": 5,
+     "in1861": 4,
+     "in1861_share": 0.8,
+     "in1900": 3,
+     "in1900_share": 0.6,
+     "median_g61_bound": 4.846796657381615,
+     "median_g61_known": 5.056954255235048,
+     "n_censored_1861": 1,
+     "median_g2021": 15.651151456074084,
+     "median_income": 43137.0,
+     "median_pop1801": 15632.0,
+     "median_pop2021": 235339.0,
+     "towns": [
+      "Stoke-on-Trent",
+      "Coventry",
+      "Ashton-under-Lyne",
+      "Wolverhampton",
+      "Blackburn"
+     ]
+    },
+    "other": {
+     "n": 9,
+     "in1861": 5,
+     "in1861_share": 0.5555555555555556,
+     "in1900": 4,
+     "in1900_share": 0.4444444444444444,
+     "median_g61_bound": 2.741027206730443,
+     "median_g61_known": 5.610008765638696,
+     "n_censored_1861": 4,
+     "median_g2021": 8.063317599460554,
+     "median_income": 44887.0,
+     "median_pop1801": 14830.0,
+     "median_pop2021": 111469.0,
+     "towns": [
+      "York",
+      "Chester",
+      "Great Yarmouth",
+      "Dover",
+      "Stockport",
+      "Shrewsbury",
+      "Bolton",
+      "Sunderland",
+      "Oldham"
+     ]
+    }
+   }
+  },
+  "by_coast": {
+   "coastal": {
+    "canal": {
+     "n": 1,
+     "in1861": 1,
+     "in1861_share": 1.0,
+     "in1900": 1,
+     "in1900_share": 1.0,
+     "median_g61_bound": 5.716456543855356,
+     "median_g61_known": 5.716456543855356,
+     "n_censored_1861": 0,
+     "median_g2021": 6.4867294244910045,
+     "median_income": 42374.0,
+     "median_pop1801": 77653.0,
+     "median_pop2021": 503714.0,
+     "towns": [
+      "Liverpool"
+     ]
+    },
+    "other": {
+     "n": 6,
+     "in1861": 4,
+     "in1861_share": 0.6666666666666666,
+     "in1900": 4,
+     "in1900_share": 0.6666666666666666,
+     "median_g61_bound": 2.8296698791824415,
+     "median_g61_known": 3.145998873222176,
+     "n_censored_1861": 2,
+     "median_g2021": 6.550185769288202,
+     "median_income": 42837.5,
+     "median_pop1801": 22180.5,
+     "median_pop2021": 194355.5,
+     "towns": [
+      "Plymouth",
+      "Portsmouth",
+      "Hull",
+      "Great Yarmouth",
+      "Dover",
+      "Sunderland"
+     ]
+    }
+   },
+   "inland": {
+    "canal": {
+     "n": 13,
+     "in1861": 11,
+     "in1861_share": 0.8461538461538461,
+     "in1900": 9,
+     "in1900_share": 0.6923076923076923,
+     "median_g61_bound": 3.9117219505748646,
+     "median_g61_known": 4.016988143691382,
+     "n_censored_1861": 2,
+     "median_g2021": 10.345726066317868,
+     "median_income": 45763.0,
+     "median_pop1801": 16953.0,
+     "median_pop2021": 298588.0,
+     "towns": [
+      "Manchester",
+      "Birmingham",
+      "Leeds",
+      "Bath",
+      "Sheffield",
+      "Nottingham",
+      "Leicester",
+      "Exeter",
+      "Stoke-on-Trent",
+      "Coventry",
+      "Ashton-under-Lyne",
+      "Wolverhampton",
+      "Blackburn"
+     ]
+    },
+    "other": {
+     "n": 9,
+     "in1861": 7,
+     "in1861_share": 0.7777777777777778,
+     "in1900": 6,
+     "in1900_share": 0.6666666666666666,
+     "median_g61_bound": 2.741027206730443,
+     "median_g61_known": 3.688469318948078,
+     "n_censored_1861": 2,
+     "median_g2021": 8.063317599460554,
+     "median_income": 49405.0,
+     "median_pop1801": 15052.0,
+     "median_pop2021": 142114.0,
+     "towns": [
+      "Bristol",
+      "Norwich",
+      "Newcastle",
+      "York",
+      "Chester",
+      "Stockport",
+      "Shrewsbury",
+      "Bolton",
+      "Oldham"
+     ]
+    }
+   }
+  },
+  "n_coastal": 7,
+  "canal_coastal": 1,
+  "other_coastal": 6,
+  "canal_north": 6,
+  "other_north": 8,
+  "fisher_in1861": 0.6513409961685823,
+  "mw_g2021_p": 0.052120248298436415,
+  "mw_income_p": 0.7106595685403921,
+  "ols_g2021": {
+   "coef_canal": 0.3237459079100116,
+   "lo": -0.10162110535126911,
+   "hi": 0.7491129211712924,
+   "p": 0.13577143016274426,
+   "ratio": 1.3822960320055007,
+   "ratio_lo": 0.9033717695618201,
+   "ratio_hi": 2.1151229034143455,
+   "n": 29,
+   "r2": 0.18169564202459842,
+   "coef_north": 0.12601201319709845,
+   "coef_coastal": -0.33022698327830435
+  },
+  "ols_income": {
+   "coef_canal": -0.07106445205046126,
+   "lo": -0.1384083423640231,
+   "hi": -0.0037205617368994137,
+   "p": 0.0386168481057193,
+   "pct": -0.06859814056664615,
+   "pct_lo": -0.12925694213815453,
+   "pct_hi": -0.0037136490227975827,
+   "n": 29,
+   "coef_north_pct": -0.09911639449590703,
+   "p_north": 0.0028265299886534485
+  },
+  "spearman_1801_2021": 0.692449814342134,
+  "table": [
+   {
+    "town": "Manchester",
+    "region": "North West",
+    "canal": true,
+    "km": 0.5,
+    "canal_name": "Rochdale Canal",
+    "canal_year": 1800,
+    "pop1801": 84020,
+    "pop1861": 338700,
+    "pop1900": 543900,
+    "pop2021": 469193,
+    "income": 44122,
+    "g61": 4.03,
+    "in1861": true,
+    "g2021": 5.58,
+    "rank1801": 1,
+    "rank2021": 5,
+    "coastal": false,
+    "bua": "Manchester"
+   },
+   {
+    "town": "Liverpool",
+    "region": "North West",
+    "canal": true,
+    "km": 1.2,
+    "canal_name": "Leeds and Liverpool Canal",
+    "canal_year": 1816,
+    "pop1801": 77653,
+    "pop1861": 443900,
+    "pop1900": 702200,
+    "pop2021": 503714,
+    "income": 42374,
+    "g61": 5.72,
+    "in1861": true,
+    "g2021": 6.49,
+    "rank1801": 2,
+    "rank2021": 3,
+    "coastal": true,
+    "bua": "Liverpool"
+   },
+   {
+    "town": "Birmingham",
+    "region": "West Midlands",
+    "canal": true,
+    "km": 0.4,
+    "canal_name": "Worcester and Birmingham Canal",
+    "canal_year": 1815,
+    "pop1801": 75670,
+    "pop1861": 296000,
+    "pop1900": 522200,
+    "pop2021": 1111347,
+    "income": 45763,
+    "g61": 3.91,
+    "in1861": true,
+    "g2021": 14.69,
+    "rank1801": 3,
+    "rank2021": 1,
+    "coastal": false,
+    "bua": "Birmingham"
+   },
+   {
+    "town": "Bristol",
+    "region": "South West",
+    "canal": false,
+    "km": 18.4,
+    "canal_name": "Kennet and Avon Canal",
+    "canal_year": 1810,
+    "pop1801": 63645,
+    "pop1861": 154100,
+    "pop1900": 329400,
+    "pop2021": 426501,
+    "income": 56748,
+    "g61": 2.42,
+    "in1861": true,
+    "g2021": 6.7,
+    "rank1801": 4,
+    "rank2021": 6,
+    "coastal": false,
+    "bua": "Bristol"
+   },
+   {
+    "town": "Leeds",
+    "region": "Yorkshire and the Humber",
+    "canal": true,
+    "km": 0.8,
+    "canal_name": "Leeds and Liverpool Canal",
+    "canal_year": 1816,
+    "pop1801": 53162,
+    "pop1861": 207200,
+    "pop1900": 429000,
+    "pop2021": 532756,
+    "income": 48179,
+    "g61": 3.9,
+    "in1861": true,
+    "g2021": 10.02,
+    "rank1801": 5,
+    "rank2021": 2,
+    "coastal": false,
+    "bua": "Leeds"
+   },
+   {
+    "town": "Plymouth",
+    "region": "South West",
+    "canal": false,
+    "km": 17.6,
+    "canal_name": "Tavistock Canal",
+    "canal_year": 1803,
+    "pop1801": 43194,
+    "pop1861": 113300,
+    "pop1900": 263600,
+    "pop2021": 265977,
+    "income": 49173,
+    "g61": 2.62,
+    "in1861": true,
+    "g2021": 6.16,
+    "rank1801": 6,
+    "rank2021": 12,
+    "coastal": true,
+    "bua": "Plymouth"
+   },
+   {
+    "town": "Norwich",
+    "region": "Eastern",
+    "canal": false,
+    "km": 19.9,
+    "canal_name": "North Walsham and Dilham Canal",
+    "canal_year": 1826,
+    "pop1801": 36832,
+    "pop1861": 70958,
+    "pop1900": 111700,
+    "pop2021": 198213,
+    "income": 49960,
+    "g61": 1.93,
+    "in1861": true,
+    "g2021": 5.38,
+    "rank1801": 7,
+    "rank2021": 16,
+    "coastal": false,
+    "bua": "Norwich"
+   },
+   {
+    "town": "Bath",
+    "region": "South West",
+    "canal": true,
+    "km": 0.7,
+    "canal_name": "Kennet and Avon Canal",
+    "canal_year": 1810,
+    "pop1801": 32200,
+    "pop1861": 52500,
+    "pop1900": null,
+    "pop2021": 95048,
+    "income": 60974,
+    "g61": 1.63,
+    "in1861": true,
+    "g2021": 2.95,
+    "rank1801": 8,
+    "rank2021": 24,
+    "coastal": false,
+    "bua": "Bath"
+   },
+   {
+    "town": "Portsmouth",
+    "region": "South East",
+    "canal": false,
+    "km": 17.3,
+    "canal_name": "Chichester Canal",
+    "canal_year": 1822,
+    "pop1801": 32166,
+    "pop1861": 94500,
+    "pop1900": 188100,
+    "pop2021": 223317,
+    "income": 53652,
+    "g61": 2.94,
+    "in1861": true,
+    "g2021": 6.94,
+    "rank1801": 9,
+    "rank2021": 15,
+    "coastal": true,
+    "bua": "Portsmouth"
+   },
+   {
+    "town": "Sheffield",
+    "region": "Yorkshire and the Humber",
+    "canal": true,
+    "km": 0.6,
+    "canal_name": "Sheffield and South Yorkshire Navigation",
+    "canal_year": 1802,
+    "pop1801": 31314,
+    "pop1861": 185200,
+    "pop1900": 409100,
+    "pop2021": 495771,
+    "income": 48271,
+    "g61": 5.91,
+    "in1861": true,
+    "g2021": 15.83,
+    "rank1801": 10,
+    "rank2021": 4,
+    "coastal": false,
+    "bua": "Sheffield"
+   },
+   {
+    "town": "Hull",
+    "region": "Yorkshire and the Humber",
+    "canal": false,
+    "km": 11.3,
+    "canal_name": "Beverley Beck",
+    "canal_year": 1744,
+    "pop1801": 29516,
+    "pop1861": 99000,
+    "pop1900": 240300,
+    "pop2021": 269895,
+    "income": 40560,
+    "g61": 3.35,
+    "in1861": true,
+    "g2021": 9.14,
+    "rank1801": 11,
+    "rank2021": 11,
+    "coastal": true,
+    "bua": "Kingston upon Hull"
+   },
+   {
+    "town": "Nottingham",
+    "region": "East Midlands",
+    "canal": true,
+    "km": 0.9,
+    "canal_name": "Nottingham Canal",
+    "canal_year": 1796,
+    "pop1801": 28861,
+    "pop1861": 74500,
+    "pop1900": 239700,
+    "pop2021": 298588,
+    "income": 45947,
+    "g61": 2.58,
+    "in1861": true,
+    "g2021": 10.35,
+    "rank1801": 12,
+    "rank2021": 9,
+    "coastal": false,
+    "bua": "Nottingham"
+   },
+   {
+    "town": "Newcastle",
+    "region": "North East",
+    "canal": false,
+    "km": 93.7,
+    "canal_name": "Ripon Canal",
+    "canal_year": 1773,
+    "pop1801": 28366,
+    "pop1861": 109300,
+    "pop1900": 215300,
+    "pop2021": 284471,
+    "income": 46870,
+    "g61": 3.85,
+    "in1861": true,
+    "g2021": 10.03,
+    "rank1801": 13,
+    "rank2021": 10,
+    "coastal": false,
+    "bua": "Newcastle upon Tyne"
+   },
+   {
+    "town": "Leicester",
+    "region": "East Midlands",
+    "canal": true,
+    "km": 0.6,
+    "canal_name": "River Soar Navigation",
+    "canal_year": 1794,
+    "pop1801": 16953,
+    "pop1861": 68100,
+    "pop1900": 211600,
+    "pop2021": 401652,
+    "income": 45430,
+    "g61": 4.02,
+    "in1861": true,
+    "g2021": 23.69,
+    "rank1801": 14,
+    "rank2021": 7,
+    "coastal": false,
+    "bua": "Leicester"
+   },
+   {
+    "town": "Exeter",
+    "region": "South West",
+    "canal": true,
+    "km": 0.6,
+    "canal_name": "Exeter Ship Canal",
+    "canal_year": 1563,
+    "pop1801": 16827,
+    "pop1861": null,
+    "pop1900": null,
+    "pop2021": 125371,
+    "income": 53943,
+    "g61": 2.4,
+    "in1861": false,
+    "g2021": 7.45,
+    "rank1801": 15,
+    "rank2021": 20,
+    "coastal": false,
+    "bua": "Exeter"
+   },
+   {
+    "town": "Stoke-on-Trent",
+    "region": "West Midlands",
+    "canal": true,
+    "km": 0.4,
+    "canal_name": "Caldon Canal",
+    "canal_year": 1779,
+    "pop1801": 16414,
+    "pop1861": 101200,
+    "pop1900": 214700,
+    "pop2021": 256898,
+    "income": 40745,
+    "g61": 6.17,
+    "in1861": true,
+    "g2021": 15.65,
+    "rank1801": 16,
+    "rank2021": 13,
+    "coastal": false,
+    "bua": "Stoke-on-Trent"
+   },
+   {
+    "town": "York",
+    "region": "Yorkshire and the Humber",
+    "canal": false,
+    "km": 13.4,
+    "canal_name": "Pocklington Canal",
+    "canal_year": 1818,
+    "pop1801": 16145,
+    "pop1861": 40400,
+    "pop1900": null,
+    "pop2021": 142114,
+    "income": 50377,
+    "g61": 2.5,
+    "in1861": true,
+    "g2021": 8.8,
+    "rank1801": 17,
+    "rank2021": 19,
+    "coastal": false,
+    "bua": "York"
+   },
+   {
+    "town": "Coventry",
+    "region": "West Midlands",
+    "canal": true,
+    "km": 0.7,
+    "canal_name": "Coventry Canal",
+    "canal_year": 1788,
+    "pop1801": 16034,
+    "pop1861": 40900,
+    "pop1900": null,
+    "pop2021": 340496,
+    "income": 48933,
+    "g61": 2.55,
+    "in1861": true,
+    "g2021": 21.24,
+    "rank1801": 18,
+    "rank2021": 8,
+    "coastal": false,
+    "bua": "Coventry"
+   },
+   {
+    "town": "Ashton-under-Lyne",
+    "region": "North West",
+    "canal": true,
+    "km": 0.6,
+    "canal_name": "Huddersfield Narrow Canal",
+    "canal_year": 1811,
+    "pop1801": 15632,
+    "pop1861": null,
+    "pop1900": null,
+    "pop2021": 48918,
+    "income": 37968,
+    "g61": 2.58,
+    "in1861": false,
+    "g2021": 3.13,
+    "rank1801": 19,
+    "rank2021": 27,
+    "coastal": false,
+    "bua": "Ashton-under-Lyne"
+   },
+   {
+    "town": "Chester",
+    "region": "North West",
+    "canal": false,
+    "km": 19.5,
+    "canal_name": "Bridgewater Canal",
+    "canal_year": 1761,
+    "pop1801": 15052,
+    "pop1861": null,
+    "pop1900": null,
+    "pop2021": 88994,
+    "income": 49405,
+    "g61": 2.68,
+    "in1861": false,
+    "g2021": 5.91,
+    "rank1801": 20,
+    "rank2021": 25,
+    "coastal": false,
+    "bua": "Chester"
+   },
+   {
+    "town": "Great Yarmouth",
+    "region": "Eastern",
+    "canal": false,
+    "km": 24.7,
+    "canal_name": "North Walsham and Dilham Canal",
+    "canal_year": 1826,
+    "pop1801": 14845,
+    "pop1861": null,
+    "pop1900": null,
+    "pop2021": 29605,
+    "income": 37603,
+    "g61": 2.72,
+    "in1861": false,
+    "g2021": 1.99,
+    "rank1801": 21,
+    "rank2021": 29,
+    "coastal": true,
+    "bua": "Great Yarmouth"
+   },
+   {
+    "town": "Dover",
+    "region": "South East",
+    "canal": false,
+    "km": 14.0,
+    "canal_name": "Royal Military Canal",
+    "canal_year": 1804,
+    "pop1801": 14845,
+    "pop1861": null,
+    "pop1900": null,
+    "pop2021": 36045,
+    "income": 44887,
+    "g61": 2.72,
+    "in1861": false,
+    "g2021": 2.43,
+    "rank1801": 22,
+    "rank2021": 28,
+    "coastal": true,
+    "bua": "Dover"
+   },
+   {
+    "town": "Stockport",
+    "region": "North West",
+    "canal": false,
+    "km": 4.1,
+    "canal_name": "Peak Forest Canal",
+    "canal_year": 1805,
+    "pop1801": 14830,
+    "pop1861": 54700,
+    "pop1900": 92800,
+    "pop2021": 119579,
+    "income": 47006,
+    "g61": 3.69,
+    "in1861": true,
+    "g2021": 8.06,
+    "rank1801": 23,
+    "rank2021": 22,
+    "coastal": false,
+    "bua": "Stockport"
+   },
+   {
+    "town": "Shrewsbury",
+    "region": "West Midlands",
+    "canal": false,
+    "km": 20.5,
+    "canal_name": "Montgomery Canal",
+    "canal_year": 1821,
+    "pop1801": 14739,
+    "pop1861": null,
+    "pop1900": null,
+    "pop2021": 75432,
+    "income": 52491,
+    "g61": 2.74,
+    "in1861": false,
+    "g2021": 5.12,
+    "rank1801": 24,
+    "rank2021": 26,
+    "coastal": false,
+    "bua": "Shrewsbury"
+   },
+   {
+    "town": "Wolverhampton",
+    "region": "West Midlands",
+    "canal": true,
+    "km": 1.1,
+    "canal_name": "Wyrley and Essington Canal",
+    "canal_year": 1797,
+    "pop1801": 12565,
+    "pop1861": 60900,
+    "pop1900": 94200,
+    "pop2021": 235339,
+    "income": 45291,
+    "g61": 4.85,
+    "in1861": true,
+    "g2021": 18.73,
+    "rank1801": 25,
+    "rank2021": 14,
+    "coastal": false,
+    "bua": "Wolverhampton"
+   },
+   {
+    "town": "Bolton",
+    "region": "North West",
+    "canal": false,
+    "km": 3.6,
+    "canal_name": "Manchester, Bolton and Bury Canal",
+    "canal_year": 1808,
+    "pop1801": 12549,
+    "pop1861": 70400,
+    "pop1900": 168200,
+    "pop2021": 184302,
+    "income": 41093,
+    "g61": 5.61,
+    "in1861": true,
+    "g2021": 14.69,
+    "rank1801": 26,
+    "rank2021": 17,
+    "coastal": false,
+    "bua": "Bolton (Bolton)"
+   },
+   {
+    "town": "Sunderland",
+    "region": "North East",
+    "canal": false,
+    "km": 85.6,
+    "canal_name": "Ripon Canal",
+    "canal_year": 1773,
+    "pop1801": 12412,
+    "pop1861": 80300,
+    "pop1900": 146100,
+    "pop2021": 165394,
+    "income": 40788,
+    "g61": 6.47,
+    "in1861": true,
+    "g2021": 13.33,
+    "rank1801": 27,
+    "rank2021": 18,
+    "coastal": true,
+    "bua": "Sunderland"
+   },
+   {
+    "town": "Oldham",
+    "region": "North West",
+    "canal": false,
+    "km": 3.3,
+    "canal_name": "Rochdale Canal",
+    "canal_year": 1800,
+    "pop1801": 12024,
+    "pop1861": 72300,
+    "pop1900": 137200,
+    "pop2021": 111469,
+    "income": 38429,
+    "g61": 6.01,
+    "in1861": true,
+    "g2021": 9.27,
+    "rank1801": 28,
+    "rank2021": 23,
+    "coastal": false,
+    "bua": "Oldham"
+   },
+   {
+    "town": "Blackburn",
+    "region": "North West",
+    "canal": true,
+    "km": 0.5,
+    "canal_name": "Leeds and Liverpool Canal",
+    "canal_year": 1816,
+    "pop1801": 11980,
+    "pop1861": 63100,
+    "pop1900": 129200,
+    "pop2021": 120469,
+    "income": 43137,
+    "g61": 5.27,
+    "in1861": true,
+    "g2021": 10.06,
+    "rank1801": 29,
+    "rank2021": 21,
+    "coastal": false,
+    "bua": "Blackburn (Blackburn with Darwen)"
+   }
+  ],
+  "fastest_1861": [
+   {
+    "town": "Sunderland",
+    "g": 6.46954560103126,
+    "canal": false,
+    "pop1801": 12412,
+    "pop1861": 80300
+   },
+   {
+    "town": "Stoke-on-Trent",
+    "g": 6.165468502497868,
+    "canal": true,
+    "pop1801": 16414,
+    "pop1861": 101200
+   },
+   {
+    "town": "Oldham",
+    "g": 6.012974051896207,
+    "canal": false,
+    "pop1801": 12024,
+    "pop1861": 72300
+   },
+   {
+    "town": "Sheffield",
+    "g": 5.914287539119883,
+    "canal": true,
+    "pop1801": 31314,
+    "pop1861": 185200
+   },
+   {
+    "town": "Liverpool",
+    "g": 5.716456543855356,
+    "canal": true,
+    "pop1801": 77653,
+    "pop1861": 443900
+   },
+   {
+    "town": "Bolton",
+    "g": 5.610008765638696,
+    "canal": false,
+    "pop1801": 12549,
+    "pop1861": 70400
+   }
+  ],
+  "dropped_1861": [
+   {
+    "town": "Exeter",
+    "canal": true,
+    "pop1801": 16827
+   },
+   {
+    "town": "Ashton-under-Lyne",
+    "canal": true,
+    "pop1801": 15632
+   },
+   {
+    "town": "Chester",
+    "canal": false,
+    "pop1801": 15052
+   },
+   {
+    "town": "Great Yarmouth",
+    "canal": false,
+    "pop1801": 14845
+   },
+   {
+    "town": "Dover",
+    "canal": false,
+    "pop1801": 14845
+   },
+   {
+    "town": "Shrewsbury",
+    "canal": false,
+    "pop1801": 14739
+   }
+  ],
+  "inland_canal": 13,
+  "inland_other": 9,
+  "growth_gap_1861": 1.4463026990023542,
+  "growth_gap_2021": 1.4692944847375233,
+  "income_gap": -0.029985533761647476
+ },
+ "england": {
+  "pop1801": 8331434,
+  "pop1851": 16921972,
+  "pop1901": 32544685,
+  "g1851": 2.031099568213587,
+  "g1901": 3.9062525130727797
+ },
+ "newcomers": {
+  "n": 18,
+  "n_canal": 9,
+  "share_canal": 0.5,
+  "towns": [
+   {
+    "town": "Northampton",
+    "canal": true,
+    "km": 0.9,
+    "canal_name": "Grand Junction Canal",
+    "first": 1900,
+    "pop": 87000,
+    "pop1900": 87000,
+    "region": "East Midlands",
+    "coastal": false
+   },
+   {
+    "town": "Southampton",
+    "canal": false,
+    "km": 4.7,
+    "canal_name": "Itchen Navigation",
+    "first": 1861,
+    "pop": 47000,
+    "pop1900": 104800,
+    "region": "South East",
+    "coastal": true
+   },
+   {
+    "town": "Derby",
+    "canal": false,
+    "km": 5.5,
+    "canal_name": "Derby Canal",
+    "first": 1861,
+    "pop": 43100,
+    "pop1900": 114800,
+    "region": "East Midlands",
+    "coastal": false
+   },
+   {
+    "town": "Bradford",
+    "canal": false,
+    "km": 5.1,
+    "canal_name": "Bradford Canal",
+    "first": 1861,
+    "pop": 106200,
+    "pop1900": 279800,
+    "region": "Yorkshire and the Humber",
+    "coastal": false
+   },
+   {
+    "town": "Brighton",
+    "canal": false,
+    "km": 18.6,
+    "canal_name": "Baybridge Canal",
+    "first": 1861,
+    "pop": 77700,
+    "pop1900": 123500,
+    "region": "South East",
+    "coastal": true
+   },
+   {
+    "town": "Birkenhead",
+    "canal": true,
+    "km": 1.7,
+    "canal_name": "Leeds and Liverpool Canal",
+    "first": 1861,
+    "pop": 51600,
+    "pop1900": 110900,
+    "region": "North West",
+    "coastal": true
+   },
+   {
+    "town": "Preston",
+    "canal": true,
+    "km": 1.6,
+    "canal_name": "Lancaster Canal",
+    "first": 1861,
+    "pop": 83000,
+    "pop1900": 113000,
+    "region": "North West",
+    "coastal": false
+   },
+   {
+    "town": "Huddersfield",
+    "canal": true,
+    "km": 0.4,
+    "canal_name": "Huddersfield Narrow Canal",
+    "first": 1881,
+    "pop": 81800,
+    "pop1900": 95000,
+    "region": "Yorkshire and the Humber",
+    "coastal": false
+   },
+   {
+    "town": "Halifax",
+    "canal": false,
+    "km": 2.3,
+    "canal_name": "Calder and Hebble Navigation",
+    "first": 1881,
+    "pop": 73600,
+    "pop1900": 104900,
+    "region": "Yorkshire and the Humber",
+    "coastal": false
+   },
+   {
+    "town": "Rochdale",
+    "canal": true,
+    "km": 1.1,
+    "canal_name": "Rochdale Canal",
+    "first": 1881,
+    "pop": 68900,
+    "pop1900": 83100,
+    "region": "North West",
+    "coastal": false
+   },
+   {
+    "town": "Gateshead",
+    "canal": false,
+    "km": 91.7,
+    "canal_name": "Ripon Canal",
+    "first": 1881,
+    "pop": 65800,
+    "pop1900": 109900,
+    "region": "North East",
+    "coastal": false
+   },
+   {
+    "town": "South Shields",
+    "canal": false,
+    "km": 95.9,
+    "canal_name": "Ripon Canal",
+    "first": 1900,
+    "pop": 100900,
+    "pop1900": 100900,
+    "region": "North East",
+    "coastal": true
+   },
+   {
+    "town": "Burnley",
+    "canal": true,
+    "km": 0.2,
+    "canal_name": "Leeds and Liverpool Canal",
+    "first": 1900,
+    "pop": 97000,
+    "pop1900": 97000,
+    "region": "North West",
+    "coastal": false
+   },
+   {
+    "town": "Middlesbrough",
+    "canal": false,
+    "km": 52.6,
+    "canal_name": "Ripon Canal",
+    "first": 1900,
+    "pop": 91300,
+    "pop1900": 91300,
+    "region": "North East",
+    "coastal": false
+   },
+   {
+    "town": "Walsall",
+    "canal": true,
+    "km": 1.7,
+    "canal_name": "Wyrley and Essington Canal",
+    "first": 1900,
+    "pop": 86400,
+    "pop1900": 86400,
+    "region": "West Midlands",
+    "coastal": false
+   },
+   {
+    "town": "Hartlepool",
+    "canal": false,
+    "km": 64.5,
+    "canal_name": "Ripon Canal",
+    "first": 1900,
+    "pop": 85400,
+    "pop1900": 85400,
+    "region": "North East",
+    "coastal": true
+   },
+   {
+    "town": "St Helens",
+    "canal": true,
+    "km": 0.5,
+    "canal_name": "Sankey Canal",
+    "first": 1900,
+    "pop": 84400,
+    "pop1900": 84400,
+    "region": "North West",
+    "coastal": false
+   },
+   {
+    "town": "Salford",
+    "canal": true,
+    "km": 1.8,
+    "canal_name": "Bridgewater Canal",
+    "first": 1900,
+    "pop": 221000,
+    "pop1900": 221000,
+    "region": "North West",
+    "coastal": false
+   }
+  ],
+  "panel_share_canal": 0.4827586206896552,
+  "n_coastal_other": 4,
+  "n_other": 9
+ },
+ "pre": {
+  "canal": {
+   "n": 14,
+   "in1377": 4,
+   "in1523": 3,
+   "in1662": 3,
+   "in1750": 5,
+   "share1377": 0.2857142857142857,
+   "share1662": 0.21428571428571427
+  },
+  "other": {
+   "n": 15,
+   "in1377": 8,
+   "in1523": 7,
+   "in1662": 11,
+   "in1750": 1,
+   "share1377": 0.5333333333333333,
+   "share1662": 0.7333333333333333
+  },
+  "fisher_1662_p": 0.009220570313398513,
+  "y1750": [
+   {
+    "town": "Bristol",
+    "pop1750": 45000,
+    "pop1801": 63645,
+    "g": 1.4143333333333334,
+    "canal": false,
+    "in1662": true,
+    "in1377": true
+   },
+   {
+    "town": "Birmingham",
+    "pop1750": 24000,
+    "pop1801": 75670,
+    "g": 3.1529166666666666,
+    "canal": true,
+    "in1662": false,
+    "in1377": false
+   },
+   {
+    "town": "Liverpool",
+    "pop1750": 22000,
+    "pop1801": 77653,
+    "g": 3.5296818181818184,
+    "canal": true,
+    "in1662": false,
+    "in1377": false
+   },
+   {
+    "town": "Manchester",
+    "pop1750": 18000,
+    "pop1801": 84020,
+    "g": 4.667777777777777,
+    "canal": true,
+    "in1662": false,
+    "in1377": false
+   },
+   {
+    "town": "Leeds",
+    "pop1750": 16000,
+    "pop1801": 53162,
+    "g": 3.322625,
+    "canal": true,
+    "in1662": false,
+    "in1377": false
+   },
+   {
+    "town": "Sheffield",
+    "pop1750": 12000,
+    "pop1801": 31314,
+    "g": 2.6095,
+    "canal": true,
+    "in1662": false,
+    "in1377": false
+   }
+  ],
+  "canal_new_since_1662": [
+   "Manchester",
+   "Liverpool",
+   "Birmingham",
+   "Leeds",
+   "Bath",
+   "Sheffield",
+   "Leicester",
+   "Stoke-on-Trent",
+   "Ashton-under-Lyne",
+   "Wolverhampton",
+   "Blackburn"
+  ],
+  "other_new_since_1662": [
+   "Stockport",
+   "Bolton",
+   "Sunderland",
+   "Oldham"
+  ]
+ },
+ "bua": {
+  "n": 884,
+  "n_canal": 272,
+  "share_canal": 0.3076923076923077,
+  "median_income_canal": 47696.0,
+  "median_income_other": 50952.0,
+  "median_pop_canal": 33064.5,
+  "median_pop_other": 20538.0,
+  "median_income_all": 50043.5,
+  "raw_income_gap_pct": -0.0639032815198618,
+  "income_region": {
+   "coef": -0.012237271655442417,
+   "lo": -0.03287859671087716,
+   "hi": 0.008404053399992326,
+   "p": 0.2452474299202,
+   "pct": -0.012162700738124865,
+   "pct_lo": -0.03234397091703356,
+   "pct_hi": 0.008439466592037093,
+   "n": 884,
+   "r2": 0.503510898711905
+  },
+  "income_full": {
+   "coef": -0.0274950809251307,
+   "lo": -0.04866117174170896,
+   "hi": -0.0063289901085524375,
+   "p": 0.010895779779302889,
+   "pct": -0.027120531791373637,
+   "pct_lo": -0.04749618976418668,
+   "pct_hi": -0.006309004236346172,
+   "n": 884,
+   "r2": 0.5674748576885011
+  },
+  "size_region": {
+   "coef": 0.4292660609039711,
+   "lo": 0.30067326233443065,
+   "hi": 0.5578588594735117,
+   "p": 6.041193306343493e-11,
+   "pct": 0.5361296840844505,
+   "pct_lo": 0.35076792267007817,
+   "pct_hi": 0.7469280745584772,
+   "n": 884,
+   "r2": 0.2937084861243394
+  },
+  "income_age": {
+   "coef": -0.025542262883685884,
+   "lo": -0.04690588962591977,
+   "hi": -0.004178636141452002,
+   "p": 0.019112738838788907,
+   "pct": -0.025218818968497647,
+   "pct_lo": -0.04582280866254107,
+   "pct_hi": -0.004169917789285327,
+   "n": 884,
+   "r2": 0.5670276852187885
+  },
+  "income_1800": {
+   "coef": -0.015316893066840032,
+   "lo": -0.038521859757039235,
+   "hi": 0.007888073623359172,
+   "p": 0.19576469693410492,
+   "pct": -0.015200186082813927,
+   "pct_lo": -0.037789329181564524,
+   "pct_hi": 0.007919266439237571,
+   "n": 884,
+   "r2": 0.5652031984081916
+  },
+  "income_england": {
+   "coef": -0.03319712368313815,
+   "lo": -0.05507169481669077,
+   "hi": -0.011322552549585536,
+   "p": 0.002934990359060073,
+   "pct": -0.032652146378463476,
+   "pct_lo": -0.05358270769322104,
+   "pct_hi": -0.011258693693786959,
+   "n": 829,
+   "r2": 0.5616512701094165
+  },
+  "size_england": {
+   "coef": 0.40043841404637787,
+   "lo": 0.27115748210669455,
+   "hi": 0.5297193459860612,
+   "p": 1.272366828849088e-09,
+   "pct": 0.492478877933886,
+   "pct_lo": 0.31148158900619527,
+   "pct_hi": 0.6984555633500924,
+   "n": 829,
+   "r2": 0.28933536024743545
+  },
+  "by_region": [
+   {
+    "region": "East of England",
+    "n": 102,
+    "n_canal": 18,
+    "inc_canal": 63507.0,
+    "inc_other": 57447.0,
+    "pop_canal": 26239.5,
+    "pop_other": 24042.0,
+    "gap_pct": 0.10548853726043128
+   },
+   {
+    "region": "South West",
+    "n": 92,
+    "n_canal": 16,
+    "inc_canal": 52358.0,
+    "inc_other": 50604.0,
+    "pop_canal": 27177.0,
+    "pop_other": 16958.0,
+    "gap_pct": 0.0346612915975022
+   },
+   {
+    "region": "Wales",
+    "n": 55,
+    "n_canal": 10,
+    "inc_canal": 43880.5,
+    "inc_other": 42645.0,
+    "pop_canal": 35224.5,
+    "pop_other": 14750.0,
+    "gap_pct": 0.02897174346347753
+   },
+   {
+    "region": "South East",
+    "n": 171,
+    "n_canal": 26,
+    "inc_canal": 62312.0,
+    "inc_other": 64705.0,
+    "pop_canal": 44029.5,
+    "pop_other": 23281.0,
+    "gap_pct": -0.03698323158952166
+   },
+   {
+    "region": "North West",
+    "n": 141,
+    "n_canal": 69,
+    "inc_canal": 43405.0,
+    "inc_other": 45177.5,
+    "pop_canal": 27086.0,
+    "pop_other": 23794.0,
+    "gap_pct": -0.03923413203475179
+   },
+   {
+    "region": "West Midlands",
+    "n": 75,
+    "n_canal": 47,
+    "inc_canal": 46317.0,
+    "inc_other": 48342.5,
+    "pop_canal": 46219.0,
+    "pop_other": 16901.0,
+    "gap_pct": -0.04189895019910017
+   },
+   {
+    "region": "East Midlands",
+    "n": 77,
+    "n_canal": 32,
+    "inc_canal": 47057.5,
+    "inc_other": 49156.0,
+    "pop_canal": 23934.0,
+    "pop_other": 19954.0,
+    "gap_pct": -0.042690617625518734
+   },
+   {
+    "region": "London",
+    "n": 32,
+    "n_canal": 15,
+    "inc_canal": 72178.0,
+    "inc_other": 76281.0,
+    "pop_canal": 286630.0,
+    "pop_other": 259491.0,
+    "gap_pct": -0.05378796817031761
+   },
+   {
+    "region": "Yorkshire and The Humber",
+    "n": 93,
+    "n_canal": 39,
+    "inc_canal": 43606.0,
+    "inc_other": 46168.5,
+    "pop_canal": 20205.0,
+    "pop_other": 14752.5,
+    "gap_pct": -0.05550321106382061
+   },
+   {
+    "region": "North East",
+    "n": 46,
+    "n_canal": 0,
+    "inc_canal": null,
+    "inc_other": 43687.0,
+    "pop_canal": null,
+    "pop_other": 24798.5,
+    "gap_pct": null
+   }
+  ],
+  "regions_canal_poorer": 6,
+  "regions_with_both": 9,
+  "by_size": [
+   {
+    "lo": 10000,
+    "hi": 25000,
+    "n": 474,
+    "share_canal": 0.22784810126582278,
+    "inc_canal": 45969.5,
+    "inc_other": 50640.0
+   },
+   {
+    "lo": 25000,
+    "hi": 75000,
+    "n": 274,
+    "share_canal": 0.36496350364963503,
+    "inc_canal": 47356.5,
+    "inc_other": 50330.5
+   },
+   {
+    "lo": 75000,
+    "hi": 100000000,
+    "n": 136,
+    "share_canal": 0.47058823529411764,
+    "inc_canal": 50148.5,
+    "inc_other": 54256.0
+   }
+  ],
+  "n_regions": 10
+ },
+ "lancs": {
+  "n": 45,
+  "n_canal": 22,
+  "inc_canal": 41071.5,
+  "inc_other": 44700.0,
+  "pop_canal": 28526.5,
+  "pop_other": 23673.0,
+  "rows": [
+   {
+    "bua": "Blackpool",
+    "lad": "Blackpool",
+    "pop2021": 149765,
+    "income": 35078,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 10.17,
+    "coastal": true
+   },
+   {
+    "bua": "Blackburn (Blackburn with Darwen)",
+    "lad": "Blackburn with Darwen",
+    "pop2021": 120469,
+    "income": 43137,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Preston (Preston)",
+    "lad": "Preston",
+    "pop2021": 93148,
+    "income": 38872,
+    "canal": true,
+    "canal_name": "Lancaster Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Wigan",
+    "lad": "Wigan",
+    "pop2021": 81906,
+    "income": 42152,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Burnley",
+    "lad": "Burnley",
+    "pop2021": 79575,
+    "income": 39663,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Lancaster",
+    "lad": "Lancaster",
+    "pop2021": 46645,
+    "income": 45556,
+    "canal": true,
+    "canal_name": "Lancaster Canal",
+    "km_edge": 0.0,
+    "coastal": true
+   },
+   {
+    "bua": "Leigh (Wigan)",
+    "lad": "Wigan",
+    "pop2021": 43532,
+    "income": 39352,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Lytham St Anne's",
+    "lad": "Fylde",
+    "pop2021": 42660,
+    "income": 45567,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 10.95,
+    "coastal": true
+   },
+   {
+    "bua": "Chorley",
+    "lad": "Chorley",
+    "pop2021": 40351,
+    "income": 42946,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Bamber Bridge",
+    "lad": "South Ribble",
+    "pop2021": 40153,
+    "income": 46421,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 3.14,
+    "coastal": false
+   },
+   {
+    "bua": "Leyland",
+    "lad": "South Ribble",
+    "pop2021": 38379,
+    "income": 48396,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 3.33,
+    "coastal": false
+   },
+   {
+    "bua": "Accrington",
+    "lad": "Hyndburn",
+    "pop2021": 34561,
+    "income": 37643,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.56,
+    "coastal": false
+   },
+   {
+    "bua": "Skelmersdale",
+    "lad": "West Lancashire",
+    "pop2021": 33961,
+    "income": 39394,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 2.24,
+    "coastal": false
+   },
+   {
+    "bua": "Nelson (Pendle)",
+    "lad": "Pendle",
+    "pop2021": 33486,
+    "income": 37282,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Fulwood",
+    "lad": "Preston",
+    "pop2021": 32131,
+    "income": 49860,
+    "canal": true,
+    "canal_name": "Lancaster Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Morecambe",
+    "lad": "Lancaster",
+    "pop2021": 31667,
+    "income": 36974,
+    "canal": true,
+    "canal_name": "Lancaster Canal",
+    "km_edge": 0.68,
+    "coastal": true
+   },
+   {
+    "bua": "Ormskirk",
+    "lad": "West Lancashire",
+    "pop2021": 29608,
+    "income": 52164,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 2.86,
+    "coastal": false
+   },
+   {
+    "bua": "Darwen",
+    "lad": "Blackburn with Darwen",
+    "pop2021": 28126,
+    "income": 41310,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 2.81,
+    "coastal": false
+   },
+   {
+    "bua": "Atherton",
+    "lad": "Wigan",
+    "pop2021": 25951,
+    "income": 38928,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 2.63,
+    "coastal": false
+   },
+   {
+    "bua": "Golborne",
+    "lad": "Wigan",
+    "pop2021": 25386,
+    "income": 46819,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.7,
+    "coastal": false
+   },
+   {
+    "bua": "Ashton-in-Makerfield",
+    "lad": "Wigan",
+    "pop2021": 25379,
+    "income": 43948,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 1.44,
+    "coastal": false
+   },
+   {
+    "bua": "Hindley",
+    "lad": "Wigan",
+    "pop2021": 25190,
+    "income": 40266,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 1.27,
+    "coastal": false
+   },
+   {
+    "bua": "Fleetwood",
+    "lad": "Wyre",
+    "pop2021": 24373,
+    "income": 36625,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 13.83,
+    "coastal": true
+   },
+   {
+    "bua": "Orrell",
+    "lad": "Wigan",
+    "pop2021": 23673,
+    "income": 46621,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 1.78,
+    "coastal": false
+   },
+   {
+    "bua": "Rawtenstall",
+    "lad": "Rossendale",
+    "pop2021": 19854,
+    "income": 44700,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 7.44,
+    "coastal": false
+   },
+   {
+    "bua": "Colne",
+    "lad": "Pendle",
+    "pop2021": 19534,
+    "income": 40353,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.67,
+    "coastal": false
+   },
+   {
+    "bua": "Thornton (Wyre)",
+    "lad": "Wyre",
+    "pop2021": 18666,
+    "income": 41762,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 12.52,
+    "coastal": true
+   },
+   {
+    "bua": "Tyldesley",
+    "lad": "Wigan",
+    "pop2021": 18552,
+    "income": 47843,
+    "canal": true,
+    "canal_name": "Bridgewater Canal",
+    "km_edge": 0.93,
+    "coastal": false
+   },
+   {
+    "bua": "Penwortham",
+    "lad": "South Ribble",
+    "pop2021": 17653,
+    "income": 52102,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 1.3,
+    "coastal": false
+   },
+   {
+    "bua": "Clitheroe",
+    "lad": "Ribble Valley",
+    "pop2021": 17139,
+    "income": 45354,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 8.98,
+    "coastal": false
+   },
+   {
+    "bua": "Haslingden",
+    "lad": "Rossendale",
+    "pop2021": 16324,
+    "income": 45502,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 6.83,
+    "coastal": false
+   },
+   {
+    "bua": "Euxton",
+    "lad": "Chorley",
+    "pop2021": 16239,
+    "income": 54927,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 1.54,
+    "coastal": false
+   },
+   {
+    "bua": "Heysham",
+    "lad": "Lancaster",
+    "pop2021": 15060,
+    "income": 40961,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 3.71,
+    "coastal": true
+   },
+   {
+    "bua": "Bacup",
+    "lad": "Rossendale",
+    "pop2021": 14517,
+    "income": 44058,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 4.98,
+    "coastal": false
+   },
+   {
+    "bua": "Cleveleys",
+    "lad": "Wyre",
+    "pop2021": 12454,
+    "income": 34440,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 15.05,
+    "coastal": true
+   },
+   {
+    "bua": "Brierfield",
+    "lad": "Pendle",
+    "pop2021": 11910,
+    "income": 41790,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Ince-in-Makerfield",
+    "lad": "Wigan",
+    "pop2021": 11874,
+    "income": 35211,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Standish",
+    "lad": "Wigan",
+    "pop2021": 11460,
+    "income": 54610,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.65,
+    "coastal": false
+   },
+   {
+    "bua": "Longton",
+    "lad": "South Ribble",
+    "pop2021": 11225,
+    "income": 53861,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 2.79,
+    "coastal": false
+   },
+   {
+    "bua": "Barnoldswick",
+    "lad": "Pendle",
+    "pop2021": 11168,
+    "income": 41814,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Poulton-le-Fylde",
+    "lad": "Wyre",
+    "pop2021": 11064,
+    "income": 46601,
+    "canal": false,
+    "canal_name": "",
+    "km_edge": 11.02,
+    "coastal": true
+   },
+   {
+    "bua": "Great Harwood",
+    "lad": "Hyndburn",
+    "pop2021": 11015,
+    "income": 37583,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.75,
+    "coastal": false
+   },
+   {
+    "bua": "Padiham",
+    "lad": "Burnley",
+    "pop2021": 10868,
+    "income": 37572,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.79,
+    "coastal": false
+   },
+   {
+    "bua": "Platt Bridge and Abram",
+    "lad": "Wigan",
+    "pop2021": 10098,
+    "income": 39406,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   },
+   {
+    "bua": "Adlington (Chorley)",
+    "lad": "Chorley",
+    "pop2021": 10024,
+    "income": 49109,
+    "canal": true,
+    "canal_name": "Leeds and Liverpool Canal",
+    "km_edge": 0.0,
+    "coastal": false
+   }
+  ],
+  "ll_n": 30,
+  "ll_median_income": 42457.0,
+  "ll_towns": [
+   {
+    "bua": "Leeds",
+    "pop2021": 532756,
+    "income": 48179,
+    "region": "Yorkshire and The Humber"
+   },
+   {
+    "bua": "Liverpool",
+    "pop2021": 503714,
+    "income": 42374,
+    "region": "North West"
+   },
+   {
+    "bua": "Bradford",
+    "pop2021": 331757,
+    "income": 42540,
+    "region": "Yorkshire and The Humber"
+   },
+   {
+    "bua": "Blackburn (Blackburn with Darwen)",
+    "pop2021": 120469,
+    "income": 43137,
+    "region": "North West"
+   },
+   {
+    "bua": "Wigan",
+    "pop2021": 81906,
+    "income": 42152,
+    "region": "North West"
+   },
+   {
+    "bua": "Burnley",
+    "pop2021": 79575,
+    "income": 39663,
+    "region": "North West"
+   },
+   {
+    "bua": "Bootle (Sefton)",
+    "pop2021": 55178,
+    "income": 37649,
+    "region": "North West"
+   },
+   {
+    "bua": "Keighley",
+    "pop2021": 50532,
+    "income": 43092,
+    "region": "Yorkshire and The Humber"
+   },
+   {
+    "bua": "Crosby (Sefton)",
+    "pop2021": 50501,
+    "income": 47621,
+    "region": "North West"
+   },
+   {
+    "bua": "Leigh (Wigan)",
+    "pop2021": 43532,
+    "income": 39352,
+    "region": "North West"
+   },
+   {
+    "bua": "Kirkby",
+    "pop2021": 43490,
+    "income": 37457,
+    "region": "North West"
+   },
+   {
+    "bua": "Chorley",
+    "pop2021": 40351,
+    "income": 42946,
+    "region": "North West"
+   },
+   {
+    "bua": "Pudsey",
+    "pop2021": 35310,
+    "income": 52722,
+    "region": "Yorkshire and The Humber"
+   },
+   {
+    "bua": "Accrington",
+    "pop2021": 34561,
+    "income": 37643,
+    "region": "North West"
+   },
+   {
+    "bua": "Nelson (Pendle)",
+    "pop2021": 33486,
+    "income": 37282,
+    "region": "North West"
+   },
+   {
+    "bua": "Golborne",
+    "pop2021": 25386,
+    "income": 46819,
+    "region": "North West"
+   },
+   {
+    "bua": "Bingley",
+    "pop2021": 22547,
+    "income": 47771,
+    "region": "Yorkshire and The Humber"
+   },
+   {
+    "bua": "Colne",
+    "pop2021": 19534,
+    "income": 40353,
+    "region": "North West"
+   },
+   {
+    "bua": "Maghull",
+    "pop2021": 18672,
+    "income": 51120,
+    "region": "North West"
+   },
+   {
+    "bua": "Litherland",
+    "pop2021": 16526,
+    "income": 45201,
+    "region": "North West"
+   },
+   {
+    "bua": "Baildon",
+    "pop2021": 15783,
+    "income": 51230,
+    "region": "Yorkshire and The Humber"
+   },
+   {
+    "bua": "Skipton",
+    "pop2021": 15388,
+    "income": 48947,
+    "region": "Yorkshire and The Humber"
+   },
+   {
+    "bua": "Brierfield",
+    "pop2021": 11910,
+    "income": 41790,
+    "region": "North West"
+   },
+   {
+    "bua": "Ince-in-Makerfield",
+    "pop2021": 11874,
+    "income": 35211,
+    "region": "North West"
+   },
+   {
+    "bua": "Standish",
+    "pop2021": 11460,
+    "income": 54610,
+    "region": "North West"
+   },
+   {
+    "bua": "Barnoldswick",
+    "pop2021": 11168,
+    "income": 41814,
+    "region": "North West"
+   },
+   {
+    "bua": "Great Harwood",
+    "pop2021": 11015,
+    "income": 37583,
+    "region": "North West"
+   },
+   {
+    "bua": "Padiham",
+    "pop2021": 10868,
+    "income": 37572,
+    "region": "North West"
+   },
+   {
+    "bua": "Platt Bridge and Abram",
+    "pop2021": 10098,
+    "income": 39406,
+    "region": "North West"
+   },
+   {
+    "bua": "Adlington (Chorley)",
+    "pop2021": 10024,
+    "income": 49109,
+    "region": "North West"
+   }
+  ],
+  "nw_median_income": 44432.0,
+  "bw_towns": [
+   {
+    "bua": "Sale",
+    "pop2021": 61867,
+    "income": 55522
+   },
+   {
+    "bua": "Runcorn",
+    "pop2021": 58214,
+    "income": 39799
+   },
+   {
+    "bua": "Altrincham",
+    "pop2021": 49342,
+    "income": 60469
+   },
+   {
+    "bua": "Eccles (Salford)",
+    "pop2021": 38707,
+    "income": 40548
+   },
+   {
+    "bua": "Swinton (Salford)",
+    "pop2021": 27086,
+    "income": 47349
+   },
+   {
+    "bua": "Stretford",
+    "pop2021": 25531,
+    "income": 50582
+   },
+   {
+    "bua": "Old Trafford",
+    "pop2021": 22551,
+    "income": 42160
+   },
+   {
+    "bua": "Tyldesley",
+    "pop2021": 18552,
+    "income": 47843
+   },
+   {
+    "bua": "Lymm",
+    "pop2021": 12661,
+    "income": 65049
+   }
+  ],
+  "spot": {
+   "Burnley": {
+    "pop2021": 79575,
+    "income": 39663,
+    "inc_rank": 825,
+    "of": 884,
+    "canal": "Leeds and Liverpool Canal",
+    "canal_year": 1816,
+    "km_edge": 0.0,
+    "pop1801": null,
+    "pop1861": null,
+    "pop1900": 97000,
+    "pop1921": 103200
+   },
+   "Blackburn": {
+    "pop2021": 120469,
+    "income": 43137,
+    "inc_rank": 701,
+    "of": 884,
+    "canal": "Leeds and Liverpool Canal",
+    "canal_year": 1816,
+    "km_edge": 0.0,
+    "pop1801": 11980,
+    "pop1861": 63100,
+    "pop1900": 129200,
+    "pop1921": 126600
+   },
+   "Wigan": {
+    "pop2021": 81906,
+    "income": 42152,
+    "inc_rank": 743,
+    "of": 884,
+    "canal": "Leeds and Liverpool Canal",
+    "canal_year": 1816,
+    "km_edge": 0.0,
+    "pop1801": null,
+    "pop1861": null,
+    "pop1900": null,
+    "pop1921": null
+   }
+  },
+  "share_below_median": 0.8666666666666667,
+  "ll_below_n": 26,
+  "ll_gap_nw": -0.04444994598487573,
+  "gap": -0.08117449664429532
+ },
+ "wd_hist": {
+  "items": 795,
+  "with_1801_1851": 343,
+  "in_cambs_hunts_box": 268,
+  "share_box": 0.7813411078717201
+ },
+ "thresholds": {
+  "town_km": 2.0,
+  "bua_km": 1.0,
+  "bua_min_pop": 10000,
+  "coastal_km": 5
+ }
+}
