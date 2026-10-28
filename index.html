@@ -436,6 +436,6 @@ document.getElementById("newtab").innerHTML = `<thead><tr><th>Town</th><th class
 document.getElementById("lancs").innerHTML = `<thead><tr><th>Place</th><th class="num">2021</th><th class="num">Income</th><th class="wide">Canal</th></tr></thead><tbody>` +
   R.lancs.rows.map(r => `<tr><td><span class="dot" style="background:var(${r.canal ? "--hot" : "--oth"})"></span>${esc(r.bua.replace(/ \(.*\)/, ""))}<small>${esc(r.lad)}</small></td><td class="num">${fmt(r.pop2021)}</td><td class="num">${gbp(r.income)}</td><td class="wide">${r.canal ? esc(r.canal_name) : "<small>" + r.km_edge + " km from a canal of 1830 or earlier</small>"}</td></tr>`).join("") + "</tbody>";
 </script>
-<script src="https://tristan-hotham.github.io/assets/site-nav.js" defer></script>
+<script src="/assets/site-nav.js" defer></script>
 </body>
 </html>
